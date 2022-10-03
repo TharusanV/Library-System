@@ -1,6 +1,25 @@
 # Library-System
-### Java/SQL - Library System
-**Description:** During my first year at Brunel we learn't Java for the programming module with the final exam revolving creating methods for a bunch of questions relating to Connect 4 and the group project module where myself and seven others had to create an Airline System. Therefore, as for whatever reason at the time I didn't create any other proper project a part from the Airline system which in all fairness works sort off but the level of coding throughout the different components wasn't to a high standard in my opinion as you would imagine with a group of people with some caring more than others due to the first year not counting. That being said during the holidays created this just to display my knowledge of Java whilst also learning how to connect MySQL to Java.    
 
-**Preview:**
+### Java/SQL - Library System
+
+### Description :
+Through using the knowledge I gained of Java through my first year at university I decided to create a Library system. The library system was created using a UML Class diagram to identify what OOP techniques the project will include as well as an SQL connector to store all the data of the users and the books making this a software a CRUD Library System. Functions found here are found in a standard library system including a login screen and a place to return and borrow books with a simple GUI as I didn't have the time due to going on holiday a couple of days after the core of the system was done.  
+
+### Technologies used :
+    - Java
+    - Java Swing (GUI)
+    - Java AWT (GUI)
+    - MySQL
+
+### Functionalities implemented :
+    - Login Page
+    - Valid Patrons can browse all available books
+    - Valid Patrons can borrow books that are available
+    - Valid Patrons can return books that they have borrowed
+    - Valid Admins can add Patrons
+    - Valid Admins can add books
+    - Valid Admins can modify User Data
+    - Valid Admins can modify Book Data
+    - Valid Admins can see all the Books
+    - Valid Admins can see all the Users
 
